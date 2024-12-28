@@ -7,9 +7,9 @@ class
 		System.out.println("pesrsono World!");
 		System.out.println("pesrsono World!");
 		System.out.println("pesrsono World!");
+		System.out.println("Hello  World!");
 		System.out.println("pesrsono World!");
-		System.out.println("pesrsono World!");
-		System.out.println("pesrsono World!");
+		System.out.println("Hello  World!");
 		System.out.println("pesrsono World!");
 		System.out.println("pesrsono World!");
 
