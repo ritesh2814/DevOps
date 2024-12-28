@@ -1,0 +1,17 @@
+class  
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+		System.out.println("pesrsono World!");
+
+	}
+}
